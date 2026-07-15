@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to chaeny's GitHub! 👋
 
 <!--
 **codms-lamb/codms-lamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
